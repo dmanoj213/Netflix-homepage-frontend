@@ -1,0 +1,56 @@
+body{
+    background-image: url(netflix\ background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo img{
+    color: red;
+    margin left: 20px;
+    width: 200px;
+    height: 75px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.a{
+    border: none;
+    background-color: red;
+    color: white;
+    padding: 5px;
+    margin right: 15px;
+
+
+
+}
+.b{
+    background-color: red;
+    color: white;
+    border: 5px;
+}
+.content1{
+    text-align: center;
+    color: white;
+    font-size: 48px;
+
+}
+.content2{
+    text-align: center;
+    color: white;
+    font-size: 28px;
+}
+.emailform input{
+   
+    width: 500px;
+    height: 40px;
+    text-align: center;
+
+}
+ .emailform button{
+    color: white;
+    background-color: red;
+    width: 100px;
+    height: 40px;
+
+}
